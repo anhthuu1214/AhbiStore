@@ -98,14 +98,14 @@
         	{
         ?>
         	<div class="col-sm-6">
-        		<p style="text-align: center; color: Blue; font-size: 35pt; border: solid 2px black; border-radius: 6px; "><?php echo $row['name']?></p> 
+        		<p style="text-align: center; color: white; background-color: black; font-size: 35pt; border: solid 2px black; border-radius: 10px; "><?php echo $row['name']?></p> 
     	    	<hr> 
     	      	<img src="<?php echo $row['pic']?>" style="width:100%; height: 100%;">
       	  </div>
-		    	<div class="col-sm-6" style="padding-left: 50px; color: black; font-size: 25pt; border: solid 2px black; margin: 100px 0 0 50px; width: 400px ">
+		    	<div class="col-sm-6" style="padding-left: 50px; color: black; font-size: 25pt; border: solid 2px black; margin: 150px 0 0 50px; width: 400px; height: 500px ">
            <form action="" method="POST" enctype="multipart/form-data" > 
                 <p style="font-size: 30pt; color: Navy; text-align: center;">Information</p>
-                <hr width="70%">
+                <hr width="80%">
                 <p>Colour: <?php echo $row['color']?></p>
                 <p style="color: red;">Price: <?php echo $row['price']?></p>
                 <p>Material: Leather</p>
