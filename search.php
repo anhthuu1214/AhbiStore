@@ -132,7 +132,7 @@
 
 <footer class="container-fluid text-center" style="background: black; color: white; text-align: center;">
   Design by Anhthuu <br>
-  ID: 1630010103 -  Contact: 035 664 9059
+  ID: 1630010103 -  Contact: anhthuu1214@gmail.com
 </footer>
   <script src="js/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
